@@ -19,7 +19,7 @@ The project is divided into two main parts:
 ## Installation and Setup
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/food-express.git
+    git clone https://github.com/alok1304/Food_Express.git
     ```
 2. **Navigate to the project directory**:
     ```bash
